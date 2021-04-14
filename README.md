@@ -1,5 +1,5 @@
 # DrawEnergyProfile
-A easy to use and robust python package for plotting energy profiles of reactions as per publications standards.
+A easy to use and robust python package for plotting energy profiles of reactions.
 
 ## Overview
 DrawEnergyProfile gives the user to configure and draw each level with user defined Font color and size.
