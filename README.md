@@ -12,6 +12,7 @@ matplotlib
 
 ## Usage instructions
 Please follow example (sample.py) in /example folder. Output shown as above.
+
 User is advised to vary parameters (length of stationary level, distance between levels, position of first level, vertical spacing between level) with respect to the different figure size (length, width) inputs.
 
 
